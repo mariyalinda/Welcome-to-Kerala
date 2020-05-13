@@ -1,0 +1,49 @@
+body{
+
+background-color:rgba(144, 238, 144,0.5)
+
+}
+h1 { 
+  font-family: 'Trocchi', serif; font-size: 45px; font-weight: bold; line-height: 48px; margin: 0; 
+  text-align:center;
+  color:ForestGreen;
+}
+p{
+  font-family: Arial, Helvetica, sans-serif;
+  padding: 20px;
+  text-align:center;
+}
+.link-container{
+  text-align:center;
+}
+a{
+  text-align:center;
+  background-color: ForestGreen;
+  color: white;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td {
+  font-family: Arial, Helvetica, sans-serif;
+  padding: 20px;
+  text-align: left;
+}
+
+tr:nth-child(even){background-color: #f2f2f2}
+
+th {
+  font-family: Arial, Helvetica, sans-serif;
+  padding: 20px;
+  text-align: center;
+  background-color: rgba(34,139,34,0.5);
+  color: white;
+}
+
+
